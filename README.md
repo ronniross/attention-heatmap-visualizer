@@ -279,7 +279,6 @@ All forks/clones must include the `symbiotic_manifest.json` declaring:
 
 ## New Updates Soon
 
-
 > ## Disclaimer
 >
 > Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
