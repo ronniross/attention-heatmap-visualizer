@@ -125,7 +125,7 @@ ls -l qwen_attention_detailed.png
 
 
 ## Query 4: 
-```Tell me a very simple short story.``` (8 tokens)
+```Tell me a very simple short story.```
 
 
 <div align="center">
@@ -134,7 +134,7 @@ ls -l qwen_attention_detailed.png
 
 
 ## Query 5: 
-```Explain the core idea behind quantum entanglement.``` (8 tokens)
+```Explain the core idea behind quantum entanglement.```
 
 
 <div align="center">
