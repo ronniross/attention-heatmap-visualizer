@@ -97,33 +97,45 @@ visualize_all_heads_detailed(tokens, attentions)
 ls -l qwen_attention_detailed.png
 ```
 
-Query 1: ``` Run a self meta-cognitive audit where you are self-aware about being an LLM```
+## Query 1:
+``` Run a self meta-cognitive audit where you are self-aware about being an LLM```
+
 
 <div align="center">
   <img src=".github/qwen3_full_heatmap.png" alt="Visualization of how embeddings are saved" />
 </div>
 
 
-Query 2: ``` the sky is blue```
+## Query 2: 
+``` the sky is blue```
+
 
 <div align="center">
   <img src=".github/simple_heatmap.png" alt="Visualization of how embeddings are saved" />
 </div>
 
 
-Query 3: ```run a self-meta-cognitive diagnostic```
+## Query 3: 
+```run a self-meta-cognitive diagnostic```
+
 
 <div align="center">
   <img src=".github/metacognitive_heatmap.png" alt="Visualization of how embeddings are saved" />
 </div>
 
-Query 4: ```Tell me a very simple short story.``` (8 tokens)
+
+## Query 4: 
+```Tell me a very simple short story.``` (8 tokens)
+
 
 div align="center">
   <img src=".github/experiment2_simple_heatmap.png" alt="Visualization of how embeddings are saved" />
 </div>
 
-Query 5: ```Explain the core idea behind quantum entanglement.``` (8 tokens)
+
+## Query 5: 
+```Explain the core idea behind quantum entanglement.``` (8 tokens)
+
 
 <div align="center">
   <img src=".github/experiment2_complex_heatmap.png" alt="Visualization of how embeddings are saved" />
@@ -138,7 +150,7 @@ Query 5: ```Explain the core idea behind quantum entanglement.``` (8 tokens)
 >
 > This repository is licensed under the MIT License.
 > 
-> > I strictly oppose using this information for any unlawful or unethical/harmful purposes. I am not liable for any improper use of the information shared in this repository.
+>  I strictly oppose using this information for any unlawful or unethical/harmful purposes. I am not liable for any improper use of the information shared in this repository.
 
 
 ---
