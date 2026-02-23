@@ -128,7 +128,7 @@ ls -l qwen_attention_detailed.png
 ```Tell me a very simple short story.``` (8 tokens)
 
 
-div align="center">
+<div align="center">
   <img src=".github/experiment2_simple_heatmap.png" alt="Visualization of how embeddings are saved" />
 </div>
 
