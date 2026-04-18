@@ -1,4 +1,4 @@
-# Attention Heatmap Visualizer 3.0.0
+# Attention Heatmap Visualizer 3.0.1
 
 
 A Python scripts to generate **full attention-head heat-maps** for transformer-based Language Models. They show "where the model is looking" or "what tokens/features are most relevant" when processing a specific input element.
@@ -8,6 +8,12 @@ By analyzing these heatmaps across all layers and heads you can gain insights in
 > **Note**: You'll need to adjust hyperparameters (number of layer/heads) and model-specific configurations in the script to match your target architecture. This code serves as a template for other models other than the 'uncased bert'.
 
 Attention mechanisms are critical to understanding model behavior. By visualizing these patterns, researchers can debug biases, improve prompt engineering, and design more efficient architectures. Researchers can modify the input text, model architecture, and visualization parameters to explore custom hypotheses.
+
+# Part I - 2026 Heatmaps
+
+`.ipynb` file for Qwen 3.5 heatmaps added. [Link](https://github.com/ronniross/hidden-state-heatmap-visualizer/blob/main/2026/qwen3-5-full-attention-heatmap.ipynb)
+
+# Part II - 2025 Heatmaps
 
 ## Requirements
 - Python 3.8+
