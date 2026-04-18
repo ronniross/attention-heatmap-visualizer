@@ -21,8 +21,8 @@ Attention mechanisms are critical to understanding model behavior. By visualizin
 ## 2. attention-heatmap-animator (qwen 3.5)
 [`.ipynb` file](https://github.com/ronniross/attention-heatmap-visualizer/blob/main/2026/qwen3-5-attention-heatmap-animator.ipynb)
 
-<div align="center">
-  <img src=".github/attention-heatmap-animator-custom-variant-50ms-1000px.gif" alt="Visualization of how embeddings are saved" />
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/ronniross/attention-heatmap-visualizer/blob/main/.github/attention-heatmap-animator-custom-variant-50ms-1000px.gif" alt="visualizer-1" width="30%">
 </div>
 
 # Part II - 2025 Heatmaps
