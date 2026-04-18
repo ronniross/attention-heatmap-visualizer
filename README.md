@@ -1,6 +1,5 @@
 # Attention Heatmap Visualizer 3.0.1
 
-
 A Python scripts to generate **full attention-head heat-maps** for transformer-based Language Models. They show "where the model is looking" or "what tokens/features are most relevant" when processing a specific input element.
 
 By analyzing these heatmaps across all layers and heads you can gain insights into how the model processes information, identifies relationships between tokens, and prioritizes specific parts of the input during inference. Brighter (or warmer) regions in the heatmap indicate higher attention weights, meaning the model is focusing more on those specific input elements. Darker (or cooler) regions indicate less attention.
@@ -24,6 +23,8 @@ Attention mechanisms are critical to understanding model behavior. By visualizin
 <div align="center">
   <img src=".github/attention-heatmap-animator-custom-variant-50ms-1000px.gif" alt="Visualization of how embeddings are saved" width="30%" />
 </div>
+
+# Part II - 2025 Heatmaps
 
 ## Requirements
 - Python 3.8+
