@@ -1,4 +1,4 @@
-# Attention Heatmap Visualizer 3.0.1
+# Attention Heatmap Visualizer 3.1.0
 
 A Python scripts to generate **full attention-head heat-maps** for transformer-based Language Models. They show "where the model is looking" or "what tokens/features are most relevant" when processing a specific input element.
 
