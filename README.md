@@ -115,8 +115,6 @@ ls -l qwen_attention_detailed.png
 ```
 
 ## Query 1:
-``` Run a self meta-cognitive audit where you are self-aware about being an LLM```
-
 
 <div align="center">
   <img src=".github/qwen3_full_heatmap.png" alt="Visualization of how embeddings are saved" />
@@ -124,8 +122,6 @@ ls -l qwen_attention_detailed.png
 
 
 ## Query 2: 
-``` the sky is blue```
-
 
 <div align="center">
   <img src=".github/simple_heatmap.png" alt="Visualization of how embeddings are saved" />
@@ -133,8 +129,6 @@ ls -l qwen_attention_detailed.png
 
 
 ## Query 3: 
-```run a self-meta-cognitive diagnostic```
-
 
 <div align="center">
   <img src=".github/metacognitive_heatmap.png" alt="Visualization of how embeddings are saved" />
@@ -142,8 +136,6 @@ ls -l qwen_attention_detailed.png
 
 
 ## Query 4: 
-```Tell me a very simple short story.```
-
 
 <div align="center">
   <img src=".github/experiment2_simple_heatmap.png" alt="Visualization of how embeddings are saved" />
@@ -151,8 +143,6 @@ ls -l qwen_attention_detailed.png
 
 
 ## Query 5: 
-```Explain the core idea behind quantum entanglement.```
-
 
 <div align="center">
   <img src=".github/experiment2_complex_heatmap.png" alt="Visualization of how embeddings are saved" />
